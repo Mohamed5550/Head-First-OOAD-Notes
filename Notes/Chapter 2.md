@@ -29,3 +29,9 @@ Specific thing your system has to do to work correctly
 
 - The best way to get good requirements is to understand what the system is supposed to do
 
+## What is a use case
+
+- A use case is a story of a goal of the system
+- There is a use case for each goal
+- A good use case gives a good or bad requirements, but a bad use case always gives a bad requirements
+
