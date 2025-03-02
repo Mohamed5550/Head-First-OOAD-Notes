@@ -1,8 +1,6 @@
 # Chapter 2: Gathering Requirements
 
-```
-How to satisfy customers
-```
+  How to satisfy customers
 
 ## The dog door
 
@@ -18,9 +16,7 @@ How to satisfy customers
 
 ### what is a requirement?
 
-```
-Specific thing your system has to do to work correctly
-```
+  Specific thing your system has to do to work correctly
 
 - Specific thing: you should test this thing to make sure it is fulfilled
 - System: it is the app you should make, it contains the remote control too
@@ -34,4 +30,3 @@ Specific thing your system has to do to work correctly
 - A use case is a story of a goal of the system
 - There is a use case for each goal
 - A good use case gives a good or bad requirements, but a bad use case always gives a bad requirements
-
